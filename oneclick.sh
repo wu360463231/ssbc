@@ -63,3 +63,4 @@ nohup python index_worker.py >/dev/zero 2>&1&
 #增加后台管理员
  cd ..
  python manage.py createsuperuser
+#
